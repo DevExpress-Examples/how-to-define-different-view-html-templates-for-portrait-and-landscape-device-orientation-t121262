@@ -1,3 +1,7 @@
+<!-- default file list -->
+*Files to look at*:
+
+<!-- default file list end -->
 # How to define different view HTML templates for portrait and landscape device orientation
 
 
